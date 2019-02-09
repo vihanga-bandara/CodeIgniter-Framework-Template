@@ -34,6 +34,7 @@ $config['base_url'] = 'http://localhost/{insert_your_folder_name}';
 | something else. If you are using mod_rewrite to remove the page set this
 | variable so that it is blank.
 |
+| Add the main page here unless you use different technique
 */
 $config['index_page'] = '';
 
