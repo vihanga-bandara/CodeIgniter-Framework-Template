@@ -39,8 +39,7 @@ issues, as well as missing features.
 Installation
 ************
 
-Please see the `installation section <https://codeigniter.com/user_guide/installation/index.html>`_
-of the CodeIgniter User Guide.
+This CodeIgniter template has been modified in order for the user to use it easily. Therefore all the configurations have been added along with support xdebugger. You just have to copy and paste it.
 
 *******
 License
